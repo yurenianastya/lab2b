@@ -20,7 +20,7 @@ double factorial(int n) {
 int main() {
     double step = 0.05;
     double fluff = 0.001;
-    double x, rez, MIN, MAX;
+    double x, MIN, MAX;
     int m = 9;
     x = 0;
     /*fluff = 0.001;
